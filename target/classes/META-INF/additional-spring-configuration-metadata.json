@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "springfox.documentation.swagger.v2.path",
+    "type": "java.lang.String",
+    "description": "A description for 'springfox.documentation.swagger.v2.path'"
+  },
+  {
+    "name": "spring.kafka.producer.value-deserializer",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.producer.value-deserializer'"
+  },
+  {
+    "name": "spring.kafka.producer.key-deserializer",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.kafka.producer.key-deserializer'"
+  },
+  {
+    "name": "security.basic.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'security.basic.enable'"
+  },
+  {
+    "name": "security.ignored",
+    "type": "java.lang.String",
+    "description": "A description for 'security.ignored'"
+  },
+  {
+    "name": "management.endpoint.healtah.show-details",
+    "type": "java.lang.String",
+    "description": "A description for 'management.endpoint.healtah.show-details'"
+  }
+]}
